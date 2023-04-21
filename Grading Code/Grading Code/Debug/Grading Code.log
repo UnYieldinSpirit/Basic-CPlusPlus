@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\biggs\documents\towson work\cosc 175-180\grading code\grading code\source.cpp(14): error C2440: 'initializing': cannot convert from 'int' to 'int [1]'
+  c:\users\biggs\documents\towson work\cosc 175-180\grading code\grading code\source.cpp(14): note: There are no conversions to array types, although there are conversions to references or pointers to arrays
+c:\users\biggs\documents\towson work\cosc 175-180\grading code\grading code\source.cpp(16): error C2440: 'initializing': cannot convert from 'int' to 'int [1]'
+  c:\users\biggs\documents\towson work\cosc 175-180\grading code\grading code\source.cpp(16): note: There are no conversions to array types, although there are conversions to references or pointers to arrays

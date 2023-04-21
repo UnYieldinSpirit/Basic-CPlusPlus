@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(16): error C2084: function 'void DoThis(int &,int)' already has a body
+  c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(5): note: see previous definition of 'DoThis'

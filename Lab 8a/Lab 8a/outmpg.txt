@@ -1,0 +1,15 @@
+For the gallon amounts
+11.7 14.3 12.2 8.5
+and a starting mileage of 67308
+and an ending mileage of 68750.5
+the mileage per gallon is 30.8887
+For the gallon amounts
+22.5 15 19.6 10
+and a starting mileage of 95300
+and an ending mileage of 95670
+the mileage per gallon is 5.51416
+For the gallon amounts
+100 90 20 35.5
+and a starting mileage of 7000
+and an ending mileage of 7500
+the mileage per gallon is 2.03666

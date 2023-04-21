@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(11): error C2059: syntax error: '<<'
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2100: illegal indirection
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2088: '<<': illegal for class
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2146: syntax error: missing ';' before identifier 'Convert'
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2065: 'Convert': undeclared identifier
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2146: syntax error: missing ';' before identifier 'Fahrenheit'
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2065: 'Fahrenheit': undeclared identifier
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2146: syntax error: missing ';' before identifier 'to'
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2065: 'to': undeclared identifier
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2146: syntax error: missing ';' before identifier 'Celsius'
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2065: 'Celsius': undeclared identifier
+c:\users\biggs\documents\towson work\cosc 175-180\packet that behrooz handed out\packet that behrooz handed out\source.cpp(12): error C2059: syntax error: '<<'

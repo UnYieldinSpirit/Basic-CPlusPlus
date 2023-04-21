@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bored Math problems Code", "Bored Math problems Code\Bored Math problems Code.vcxproj", "{3068AE61-7A07-43F4-A49B-601D7B7D072B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Debug|x64.ActiveCfg = Debug|x64
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Debug|x64.Build.0 = Debug|x64
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Debug|x86.Build.0 = Debug|Win32
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Release|x64.ActiveCfg = Release|x64
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Release|x64.Build.0 = Release|x64
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Release|x86.ActiveCfg = Release|Win32
+		{3068AE61-7A07-43F4-A49B-601D7B7D072B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {693342E1-323C-42D8-A6F9-F6352E686B02}
+	EndGlobalSection
+EndGlobal

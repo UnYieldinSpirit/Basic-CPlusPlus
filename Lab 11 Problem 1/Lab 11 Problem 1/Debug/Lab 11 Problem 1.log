@@ -1,0 +1,2 @@
+﻿array2.obj : error LNK2005: _main already defined in array1.obj
+C:\Users\biggs\Documents\Towson Work\COSC 175-180\Lab 11 Problem 1\Debug\Lab 11 Problem 1.exe : fatal error LNK1169: one or more multiply defined symbols found
